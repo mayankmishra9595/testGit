@@ -1,1 +1,1 @@
-Hello Wolrd! Git is awesomes
+Hello Wolrd! Git is awesome
