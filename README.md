@@ -1,1 +1,1 @@
-Hello Wolrd! This is an amazing test repository!!
+Hello Wolrd! This is an awesome test repository!!
